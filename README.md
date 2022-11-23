@@ -27,3 +27,9 @@ webdev serve
 ```
 webdev build
 ```
+
+# run test
+
+```
+dart test test/*
+```
